@@ -29,7 +29,6 @@ body:
       label: Email Address *
       description: Your primary email address for chapter communications
       placeholder: john@example.com
-      type: email
     validations:
       required: true
 
@@ -39,7 +38,6 @@ body:
       label: LinkedIn Profile URL *
       description: Link to your LinkedIn profile
       placeholder: https://www.linkedin.com/in/johndoe/
-      type: url
     validations:
       required: true
 
@@ -118,7 +116,6 @@ body:
       description: If you have an existing Meetup group, provide the URL here (optional if you answered "No" above)
       placeholder: https://www.meetup.com/global-security-mycity/
       type: url
-
   - type: checkboxes
     id: agreements
     attributes:
