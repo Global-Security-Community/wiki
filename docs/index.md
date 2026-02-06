@@ -12,32 +12,32 @@ Whether you're looking to launch a new chapter, onboard your organizing team, or
 
 Everything you need to know about launching your own Global Security chapter:
 
-- [Start a New Chapter](../start-new-chapter.md) - Learn the guidelines and requirements for starting a chapter
-- [Chapter Onboarding](../chapter-onboarding.md) - Complete the onboarding process to set up your chapter infrastructure
+- [Start a New Chapter](./start-new-chapter.md) - Learn the guidelines and requirements for starting a chapter
+- [Chapter Onboarding](./chapter-onboarding.md) - Complete the onboarding process to set up your chapter infrastructure
 
 ### Chapter Leadership
 
 Practical guidance for organizing successful events:
 
-- [Chapter Leadership Guide](../chapter-leadership-guide.md) - Step-by-step event planning and execution, plus tips for engaging your community
+- [Chapter Leadership Guide](./chapter-leadership-guide.md) - Step-by-step event planning and execution, plus tips for engaging your community
 
 ### Branding
 
 Maintain visual consistency across your chapter:
 
-- [Community Branding Standards](../community-branding-standards.md) - Logo usage, color palette, typography, and design guidelines
+- [Community Branding Standards](./community-branding-standards.md) - Logo usage, color palette, typography, and design guidelines
 
 ### Resources
 
 Tools to help you capture and share your events:
 
-- [Event Photography Checklist](../event-photography-checklist.md) - Guidance on documenting your gatherings and leveraging photos for promotion
+- [Event Photography Checklist](./event-photography-checklist.md) - Guidance on documenting your gatherings and leveraging photos for promotion
 
 ### Code of Conduct
 
 Our community standards and values:
 
-- Review our [Code of Conduct](../code-of-conduct.md) to understand the values and expectations that guide our community
+- Review our [Code of Conduct](./code-of-conduct.md) to understand the values and expectations that guide our community
 
 ## Getting Help
 

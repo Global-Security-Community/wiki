@@ -54,8 +54,8 @@ Document your event platform choice in your chapter's README so members know whe
 
 Before hosting your first event, please familiarize yourself with:
 
-- [**Chapter Leadership Guide**](chapter-leadership-guide.md) - Step-by-step guidance for planning and executing successful events, engaging attendees, and building community momentum
-- [**Community Branding Standards**](community-branding-standards.md) - Guidelines for representing the Global Security Community professionally across all materials and communications
+- [**Chapter Leadership Guide**](./chapter-leadership-guide.md) - Step-by-step guidance for planning and executing successful events, engaging attendees, and building community momentum
+- [**Community Branding Standards**](./community-branding-standards.md) - Guidelines for representing the Global Security Community professionally across all materials and communications
 
 ## 6. Attend Your Onboarding Session
 
