@@ -45,7 +45,7 @@ While organizing an event might seem challenging initially, a structured approac
 
 - **Welcome attendees warmly** – Introduce yourself, explain your chapter's mission, and briefly describe the Global Security Community
 - **Recognize contributors** – Publicly thank speakers, sponsors, and volunteers
-- **Capture the moment** – Take photos and videos for later social sharing and documentation (refer to the [Event Photography Checklist](event-photography-checklist.md) for guidance on what to capture)
+- **Capture the moment** – Take photos and videos for later social sharing and documentation (refer to the [Event Photography Checklist](./event-photography-checklist.md) for guidance on what to capture)
 - **Create networking opportunities** – Build in time for informal conversations before, during, and after the main agenda
 
 ## 7. Follow Up
