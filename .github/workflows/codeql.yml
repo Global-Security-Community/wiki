@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: ["python"]
+        language: ["actions"]
 
     steps:
       - name: Checkout repository
@@ -30,9 +30,6 @@ jobs:
         uses: github/codeql-action/init@c4a7bc332abaec03596ff2803dd7f3ca3a238975 # v3
         with:
           languages: ${{ matrix.language }}
-
-      - name: Autobuild
-        uses: github/codeql-action/autobuild@c4a7bc332abaec03596ff2803dd7f3ca3a238975 # v3
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@c4a7bc332abaec03596ff2803dd7f3ca3a238975 # v3
