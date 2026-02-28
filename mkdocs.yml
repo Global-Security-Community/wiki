@@ -6,6 +6,8 @@ site_url: https://globalsecurity.community/
 theme:
   name: material
   font: false
+  favicon: assets/favicon.svg
+  logo: assets/favicon.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: light
