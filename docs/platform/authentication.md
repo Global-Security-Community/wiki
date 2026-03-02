@@ -2,6 +2,20 @@
 
 GSC uses Microsoft Entra External ID (CIAM) for user authentication, providing a secure and familiar sign-up/sign-in experience.
 
+## Navigation
+
+Before logging in, the navigation bar shows a **Login** link:
+
+![Homepage with Login](screenshots/01-homepage.png)
+
+After logging in, authenticated users see additional links — My Tickets, Wiki, and Logout:
+
+![Authenticated Navigation](screenshots/07-nav-authenticated.png)
+
+Admin users (chapter leads) also see a **Dashboard** link:
+
+![Admin Navigation](screenshots/07b-nav-admin.png)
+
 ## Creating an Account
 
 1. Click **Login** in the navigation bar

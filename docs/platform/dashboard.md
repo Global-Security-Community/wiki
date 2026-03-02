@@ -10,6 +10,8 @@ The Dashboard is the management hub for chapter leads to create and manage event
 
 Requires the **admin** role. Only approved chapter leads are automatically assigned this role. Other users will receive a 403 Forbidden response.
 
+![Dashboard](screenshots/20-admin-dashboard.png)
+
 !!! info "How admin role works"
     When a user logs in, the system checks if their email matches an approved chapter lead in the database. If it does, they are automatically assigned the admin role.
 
@@ -18,6 +20,9 @@ Requires the **admin** role. Only approved chapter leads are automatically assig
 ### Event Management
 
 - **Create Event** — Form to create a new bootcamp event with:
+
+    ![Create Event Form](screenshots/21-create-event.png)
+
     - Event title
     - Start and end dates
     - Location
@@ -32,6 +37,7 @@ Requires the **admin** role. Only approved chapter leads are automatically assig
 
 ### Volunteers / Committee
 
+- **Volunteer Interest** — Attendees who expressed volunteer interest during registration are shown with a 🙋 icon in the attendance list, making it easy to identify potential volunteers
 - **Add Volunteers** — Assign volunteers or committee members to an event by entering their name and email
 - **Volunteer Access** — Volunteers get access to the QR check-in scanner for the event without full admin privileges
 - **Remove Volunteers** — Remove volunteer access at any time from the event detail view
@@ -40,6 +46,8 @@ Requires the **admin** role. Only approved chapter leads are automatically assig
     Volunteers must have a GSC account (signed up via the website). When they log in, the system automatically detects their email and grants them the volunteer role.
 
 ### Attendance
+
+![Event Attendance View](screenshots/23-event-detail.png)
 
 - **Attendance Dashboard** — Real-time view of check-ins for an event:
     - Total registered vs checked-in count
@@ -70,3 +78,16 @@ Requires the **admin** role. Only approved chapter leads are automatically assig
 - [Scanner](scanner.md) — QR code check-in tool
 - [Badges](badges.md) — Digital badge system
 - [Chapter Lead Application](chapter-application.md) — How to become a chapter lead
+
+### Chapter Editing
+
+Chapter leads can update their chapter information directly from the Dashboard:
+
+![Chapter Edit Form](screenshots/22-chapter-edit.png)
+
+The chapter edit form allows you to update:
+
+- **Chapter leads** — Up to 4 leads with name and LinkedIn profile
+- **Social links** — GitHub, LinkedIn, Twitter/X, and website URLs
+
+Changes are saved immediately and reflected on the chapter's public page.

@@ -8,8 +8,13 @@ The Chapters page lists all active GSC chapters around the world.
 
 ## Features
 
+![Chapters Page](screenshots/03-chapters.png)
+
 - **Chapter listing** — Displays all approved chapters in a card grid with the GSC shield logo, "Official Chapter" badge, chapter name, and city/country
 - **Chapter detail pages** — Each chapter has a dedicated page at `/chapters/{city-slug}/` showing:
+
+    ![Chapter Detail Page](screenshots/04-chapter-perth.png)
+
     - Chapter leads with profile photos (via Gravatar) and social links (GitHub, LinkedIn)
     - Upcoming events hosted by the chapter
     - Link to the chapter's Discord channel

@@ -14,6 +14,9 @@ Requires login. Unauthenticated users are redirected to the login page.
 
 1. User clicks "Register" on an event page
 2. They are taken to the registration form (or prompted to log in first)
+
+    ![Registration Page](screenshots/12-register-event.png)
+
 3. The form pre-fills their email from their account
 4. User completes the demographic information
 5. On submission, the system:
@@ -48,6 +51,18 @@ After successful registration, the user receives:
 - **My Tickets page** — All tickets are accessible at `/my-tickets/`
 
 The QR code contains a unique 8-character alphanumeric ticket code used for check-in on event day.
+
+## Volunteer Interest
+
+During registration, you can express interest in volunteering at the event. This is a **two-step confirmation** to make sure you're committed:
+
+1. **Check "I'd like to volunteer at this event"** — A confirmation section appears
+2. **Confirm availability** — Tick the confirmation box acknowledging you're available for the full event duration
+
+!!! note
+    Expressing interest doesn't guarantee a volunteer role — there are only so many positions available at each event. If you're unsure about your availability, talk to a chapter lead before committing.
+
+Chapter leads can see who expressed volunteer interest from the [Dashboard](dashboard.md) and may follow up to assign volunteer roles.
 
 ## Capacity Management
 

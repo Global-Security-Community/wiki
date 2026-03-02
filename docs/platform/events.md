@@ -8,6 +8,8 @@ The Events page lists all upcoming and past bootcamp events hosted by GSC chapte
 
 ## Features
 
+![Events Page](screenshots/02-events.png)
+
 - **Event listing** — Automatically displays all published events with title, date, location, and chapter
 - **Status indicators** — Events show whether registration is open, closed, or the event is completed
 - **Direct links** — Each event card links to its dedicated event page with full details
@@ -24,6 +26,8 @@ Events are created by chapter leads (admin users) through the [Dashboard](dashbo
 ## Event Detail Pages
 
 Each event has its own page at `/events/{slug}/` which includes:
+
+![Event Detail Page](screenshots/02b-event-detail.png)
 
 - **Event information** — Title, date range, location, description
 - **Registration count** — Live count of registered attendees vs capacity

@@ -10,6 +10,8 @@ The Scanner page provides a QR code scanning tool for checking in attendees at e
 
 Requires the **admin** or **volunteer** role. Chapter leads and assigned volunteers can access the scanner.
 
+![Scanner Page](screenshots/14-scanner.png)
+
 ## Features
 
 - **Camera scanning** — Uses the device camera to scan QR codes from attendee tickets

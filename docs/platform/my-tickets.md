@@ -12,6 +12,8 @@ Requires login. Unauthenticated users are redirected to the login page.
 
 ## Features
 
+![My Tickets Page](screenshots/11-my-tickets.png)
+
 - **Ticket list** — Displays all events the user has registered for
 - **QR codes** — Each ticket shows its unique QR code for event-day check-in
 - **Check-in status** — Indicates whether the ticket has been scanned at the event

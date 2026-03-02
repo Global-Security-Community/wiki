@@ -8,6 +8,8 @@ The Chapter Lead Application page allows community members to apply to start a G
 
 ## Application Form
 
+![Chapter Application Form](screenshots/04b-chapter-apply.png)
+
 Applicants provide the following information:
 
 | Field | Required | Purpose |
